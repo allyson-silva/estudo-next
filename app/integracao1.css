@@ -1,13 +1,18 @@
-.vermelha{
+/*Aqui esse CSS é global
+se tiver a classs pai integracao1
+e filho uma das opções abaixo aplica o estilo.
+*/
+
+.integracao1 .vermelha{
     color: #f30;
 }
 
-.azul {
+.integracao1 .azul {
 
     color: #03f;
 }
 
-.branca {
+.integracao1 .branca {
     background-color: #444;
     color: #fff
 

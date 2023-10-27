@@ -24,6 +24,7 @@ export default function Titulo(props){
     }
     */
    //usando operador ternário
+   //props SÃO SOMENTE LEITURA
    return props.pequeno ? (
 
         <>

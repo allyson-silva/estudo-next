@@ -1,4 +1,4 @@
-import Titulo from '../../../components/Titulo'
+import Titulo from '../../../components/titulo'
 //para fazer um import por padrão começa do diretório que vc está, caso esteja 
 // num diretório acima ou raiz tem que ir voltando com ..
 
