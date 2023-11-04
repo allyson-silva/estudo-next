@@ -4,8 +4,9 @@ import styles from "../../css/integracao2.module.css"
 export default function integracao2(){
 
     return (
-
+        //assim é possível acessar um id css # e não uma class .
         <div id={styles.integracao2}>
+            
             <div className={styles.vermelha}>Texto #01</div>
             <div className={styles.azul}>Texto #02</div>
             <div className={styles.branca}>Texto #03</div>
